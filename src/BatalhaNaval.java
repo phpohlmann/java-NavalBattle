@@ -1,4 +1,3 @@
-import java.util.InputMismatchException; // Embora não usemos try-catch, deixo o import caso seja útil saber qual exceção era tratada
 import java.util.Random;
 import java.util.Scanner;
 
